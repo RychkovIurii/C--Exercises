@@ -1,0 +1,15 @@
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/bin/Debug/net7.0/Tikkupelit
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/bin/Debug/net7.0/Tikkupelit.deps.json
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/bin/Debug/net7.0/Tikkupelit.runtimeconfig.json
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/bin/Debug/net7.0/Tikkupelit.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/bin/Debug/net7.0/Tikkupelit.pdb
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.csproj.AssemblyReference.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.AssemblyInfoInputs.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.AssemblyInfo.cs
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.csproj.CoreCompileInputs.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/refint/Tikkupelit.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.pdb
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/Tikkupelit.genruntimeconfig.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/Debug/net7.0/ref/Tikkupelit.dll

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{7C35699C-DDDF-4008-AF50-F4160280234C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tikkupelit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaskinPeli.cs">
+    <Files>
+      <File FileName="LaskinPeli.cs" Line="33" Column="20" />
+      <File FileName="TikkuStartteri.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tikkupelit">
+            <Node name="Tikkupelit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

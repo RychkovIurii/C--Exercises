@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/iurii.rychkov/Desktop/Git_others/C--Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj": {}
+    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj": {}
   },
   "projects": {
-    "/Users/iurii.rychkov/Desktop/Git_others/C--Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj": {
+    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/iurii.rychkov/Desktop/Git_others/C--Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj",
+        "projectUniqueName": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj",
         "projectName": "Tikkupelit",
-        "projectPath": "/Users/iurii.rychkov/Desktop/Git_others/C--Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj",
+        "projectPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/Tikkupelit.csproj",
         "packagesPath": "/Users/iurii.rychkov/.nuget/packages/",
-        "outputPath": "/Users/iurii.rychkov/Desktop/Git_others/C--Exercises/Assignments/Tikkupelit/Tikkupelit/obj/",
+        "outputPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Assignments/Tikkupelit/Tikkupelit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/iurii.rychkov/.nuget/NuGet/NuGet.Config"
