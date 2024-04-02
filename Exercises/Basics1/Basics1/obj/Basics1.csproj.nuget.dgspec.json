@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics/Basics/Basics.csproj": {}
+    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/Basics1.csproj": {}
   },
   "projects": {
-    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics/Basics/Basics.csproj": {
+    "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/Basics1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics/Basics/Basics.csproj",
-        "projectName": "Basics",
-        "projectPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics/Basics/Basics.csproj",
+        "projectUniqueName": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/Basics1.csproj",
+        "projectName": "Basics1",
+        "projectPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/Basics1.csproj",
         "packagesPath": "/Users/iurii.rychkov/.nuget/packages/",
-        "outputPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics/Basics/obj/",
+        "outputPath": "/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/iurii.rychkov/.nuget/NuGet/NuGet.Config"

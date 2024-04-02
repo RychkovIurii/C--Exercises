@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{6930CC5D-C66A-4955-B581-756646B4578D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tikkupelit/HirsipuuTekstit.cs">
+    <Files>
+      <File FileName="Tikkupelit/TikkuStartteri.cs" Line="16" Column="1" />
+      <File FileName="Tikkupelit/LaskinPeli.cs" Line="65" Column="3" />
+      <File FileName="Tikkupelit/HirsipuuPeli.cs" Line="134" Column="6" />
+      <File FileName="Tikkupelit/HirsipuuTekstit.cs" Line="86" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tikkupelit">
+            <Node name="Tikkupelit">
+              <Node name="HirsipuuTekstit.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tikkupelit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Tikkupelit FirstBuild="True" />
 </Properties>

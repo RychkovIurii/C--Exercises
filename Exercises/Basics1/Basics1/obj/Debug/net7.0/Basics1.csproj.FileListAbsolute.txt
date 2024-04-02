@@ -1,0 +1,15 @@
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/bin/Debug/net7.0/Basics1
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/bin/Debug/net7.0/Basics1.deps.json
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/bin/Debug/net7.0/Basics1.runtimeconfig.json
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/bin/Debug/net7.0/Basics1.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/bin/Debug/net7.0/Basics1.pdb
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.csproj.AssemblyReference.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.AssemblyInfoInputs.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.AssemblyInfo.cs
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.csproj.CoreCompileInputs.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/refint/Basics1.dll
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.pdb
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/Basics1.genruntimeconfig.cache
+/Users/iurii.rychkov/Desktop/Git_others/CS-Exercises/Exercises/Basics1/Basics1/obj/Debug/net7.0/ref/Basics1.dll
