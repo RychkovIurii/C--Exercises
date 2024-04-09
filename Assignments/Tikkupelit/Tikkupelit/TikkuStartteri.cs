@@ -11,6 +11,7 @@ namespace Tikkupelit
             string menu = "Valitse numero tai napaile nimeà" +
                             "\n1.Laskinpeli" +
                             "\n2.Hirsipuu" +
+                            "\n3.Blackjack" +
                             "\n3.Quit";
 
 
@@ -38,6 +39,13 @@ namespace Tikkupelit
                             hirsin.HirsipuuRun();
                             break;
                         case "3":
+                        case "blackjack":
+                            Console.Clear();
+                            Console.WriteLine("Aloitetaan Blackjack");
+                            PeliKortit kortit = new PeliKortit();
+                            kortit.KorttiDemo();
+                            break;
+                        case "4":
                         case "quit":
                             Console.Clear();
                             Console.WriteLine("Quit");

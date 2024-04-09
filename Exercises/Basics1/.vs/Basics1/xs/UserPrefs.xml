@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{9AA468F3-37C7-4233-BE30-F736E3145766}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Basics1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Basics1/KiviSaksetPaperi.cs">
     <Files>
-      <File FileName="Basics1/EsimerkkiStartteri.cs" Line="9" Column="18" />
+      <File FileName="Basics1/EsimerkkiStartteri.cs" />
       <File FileName="Basics1/KiviSaksetPaperi.cs" Line="59" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Basics1" expanded="True">
-            <Node name="Basics1">
+          <Node name="Basics1">
+            <Node name="Basics1" expanded="True">
               <Node name="KiviSaksetPaperi.cs" selected="True" />
             </Node>
           </Node>
@@ -20,7 +21,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Basics1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
