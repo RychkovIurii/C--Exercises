@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace Tikkupelit
 {
 	public class PeliKortit
@@ -122,7 +123,7 @@ namespace Tikkupelit
 
     public enum KorttiPelaajatyyppi
     {
-        pelaja,
+        pelaaja,
         dealeri,
         vastustaja,
         poyta
@@ -132,7 +133,7 @@ namespace Tikkupelit
     {
         public List<PeliKortti> korttiKasi = new List<PeliKortti>();
 
-        public KorttiPelaajatyyppi Pelaajatyyppi { get; set; }
+        public KorttiPelaajatyyppi PelaajaTyyppi { get; set; }
         public List<string> PelaajaKomennot { get; set } = new List<string>();
 
         public int PelaajanChipit { get; set }
